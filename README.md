@@ -7,5 +7,11 @@ Currently included:
 - **Electro-Optic Polarisation Control Using Nematic Liquid Crystals (RRI Project)**  
   Repository: https://github.com/sayaanrc/nematic-lc-polarisation-control
 
-Additional quantum computing projects will be added incrementally.
+## Core Quantum Algorithms
+
+- **Quantum Algorithms in Qiskit**  
+  Repository: https://github.com/sayaanrc/quantum-algorithms-qiskit  
+  Includes:
+  - Quantum Fourier Transform (QFT)
+  - Grover’s Search with a logical oracle (constraint: number of ones ≥ 2)
 
